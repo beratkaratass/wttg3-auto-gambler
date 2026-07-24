@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+wttg3_workflow.json
+*.log
+dist/
+build/
+
